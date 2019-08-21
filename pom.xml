@@ -38,6 +38,12 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
         
+        <dependency>
+  			<groupId>com.vk.api</groupId>
+  			<artifactId>sdk</artifactId>
+  			<version>1.0.2</version>
+		</dependency>
+        
     </dependencies>
 
     <properties>
